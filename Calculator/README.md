@@ -21,7 +21,7 @@ Python 3.x / VS CODE
 #### 1. Clone this repository to your local machine.
 
 ```bash
- git clone https://github.com/your-username/simple-calculator.git
+ git clone https://github.com/ANuShKu10/CodSoft.git
 
 ```
 #### 2. Navigate to the project directory.
